@@ -21,7 +21,7 @@ export default function Home(){
         <ul className="property-list-details mb-5">
           <li className="text-black">
             Property Name:{" "}
-            <strong className="text-black">Marga Luxury Suite</strong>
+            <strong className="text-black">Marga Luxury SuiteS</strong>
           </li>
           <li>
             Room: <strong>2</strong>
